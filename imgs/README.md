@@ -10,19 +10,6 @@ Aplicação CLI (Command Line Interface) que permite gerenciar tarefas com funci
 
 ---
 
-## 📸 Demonstração
-
-### 🖥 Sistema rodando
-![Menu](./imgs/menu.png)
-
-### ⚙️ Lógica (Service)
-![Service](./imgs/service.png)
-
-### 🧩 Estrutura (Model)
-![Model](./imgs/model.png)
-
----
-
 ## ⚙️ Tecnologias utilizadas
 
 - Java
