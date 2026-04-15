@@ -13,13 +13,14 @@ Aplicação CLI (Command Line Interface) que permite gerenciar tarefas com funci
 ## 📸 Demonstração
 
 ### 🖥 Sistema rodando
-![Menu](./imgs/menu.png)
+![Menu](./imgs/main.png)
+![Menu2](./imgs/main2.png)
 
 ### ⚙️ Lógica (Service)
-![Service](./imgs/service.png)
+![Service](./imgs/tarefaservice.png)
 
 ### 🧩 Estrutura (Model)
-![Model](./imgs/model.png)
+![Model](./imgs/tarefa.png)
 
 ---
 
